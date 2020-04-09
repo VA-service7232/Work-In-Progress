@@ -4637,7 +4637,7 @@ a {
 }
 
 a:hover {
-    color: #a04fcc;
+    color: #afeeee;
 }
 
 blockquote {
@@ -5201,7 +5201,7 @@ blockquote {
     margin-bottom: 0px;
     padding: 12.5px 25px;
     border-radius: 5px;
-    background-color: #a04fcc;
+    background-color: #afeeee;
     -webkit-transition: color 200ms ease, background-color 200ms ease;
     transition: color 200ms ease, background-color 200ms ease;
     line-height: 25px;
@@ -5444,11 +5444,11 @@ blockquote {
 }
 
 .search-input {
-    height: 50px;
+    height: 40px;
     margin-bottom: 0px;
     padding: 12.5px;
     border: 0px solid #000;
-    border-radius: 5px 0px 0px 5px;
+    border-radius: 9px 0px 0px 9px;
     background-color: hsla(0, 0%, 100%, 0.1);
     color: #fff;
 }
@@ -5564,9 +5564,9 @@ blockquote {
     display: -ms-flexbox;
     display: flex;
     overflow: hidden;
-    max-height: 50px;
+    max-height: 40px;
     max-width: 50px;
-    min-height: 50px;
+    min-height: 40px;
     min-width: 50px;
     margin-left: 12.5px;
     padding: 0px;
@@ -5583,8 +5583,8 @@ blockquote {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
-    border-radius: 5px;
-    background-color: #a04fcc;
+    border-radius: 6px;
+    background-color: #afeeee;
     -webkit-transition: background-color 200ms ease, color 200ms ease;
     transition: background-color 200ms ease, color 200ms ease;
     color: #fff;
@@ -5643,7 +5643,7 @@ blockquote {
     -ms-flex-align: center;
     align-items: center;
     font-family: 'Fa solid 900', sans-serif;
-    color: #a04fcc;
+    color: #afeeee;
 }
 
 .form-wrapper {
@@ -5661,8 +5661,8 @@ blockquote {
 
 .icon-button-light {
     width: 50px;
-    height: 50px;
-    border-radius: 0px 5px 5px 0px;
+    height: 40px;
+    border-radius: 0px 9px 9px 0px;
     background-color: hsla(0, 0%, 100%, 0.1);
     -webkit-transition: color 200ms ease;
     transition: color 200ms ease;
@@ -5691,7 +5691,7 @@ blockquote {
     padding-top: 5px;
     padding-bottom: 5px;
     border-radius: 5px;
-    background-color: #a04fcc;
+    background-color: #afeeee;
 }
 
 .cart-button {
@@ -5704,7 +5704,7 @@ blockquote {
     -ms-flex-pack: center;
     justify-content: center;
     border-radius: 5px;
-    background-color: #a04fcc;
+    background-color: #afeeee;
     -webkit-transition: color 200ms ease, background-color 200ms ease;
     transition: color 200ms ease, background-color 200ms ease;
     line-height: 25px;
@@ -5752,7 +5752,7 @@ blockquote {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    height: 50px;
+    height: 40px;
     -webkit-box-pack: center;
     -webkit-justify-content: center;
     -ms-flex-pack: center;
@@ -6082,9 +6082,9 @@ blockquote {
     -ms-flex-align: stretch;
     align-items: stretch;
     border-radius: 5px;
-    background-color: rgba(160, 79, 204, 0.5);
+    background-color: rgba(50, 151, 197, 0.5);
     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(160, 79, 204, 0.5)), to(rgba(160, 79, 204, 0.5))), url("https://assets.website-files.com/5e6bb7107023eaa038ce209f/5e6bb913b32abe7c38d7135f_eq-bars.svg");
-    background-image: linear-gradient(180deg, rgba(160, 79, 204, 0.5), rgba(160, 79, 204, 0.5)), url("https://assets.website-files.com/5e6bb7107023eaa038ce209f/5e6bb913b32abe7c38d7135f_eq-bars.svg");
+    background-image: linear-gradient(180deg, rgba(79, 204, 204, 0.5), rgba(160, 79, 204, 0.5)), url("https://assets.website-files.com/5e6bb7107023eaa038ce209f/5e6bb913b32abe7c38d7135f_eq-bars.svg");
     background-position: 0px 0px, 50% 50%;
     background-size: auto, 125px;
     background-repeat: repeat, repeat-x;
@@ -6192,7 +6192,7 @@ blockquote {
 
 .news-date {
     margin-bottom: 12.5px;
-    color: #a04fcc;
+    color: #afeeee;
 }
 
 .sidebar-news-title {
@@ -6203,7 +6203,7 @@ blockquote {
 }
 
 .sidebar-news-title:hover {
-    color: #a04fcc;
+    color: #afeeee;
 }
 
 .sidebar-news-short-description {
