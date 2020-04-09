@@ -23385,10 +23385,10 @@
         return n.ready = function() {
             var n, r, a, c = i.attr("data-wf-status"),
                 p = i.attr("data-wf-domain") || "";
-            /\.Varāhamihira\.io$/i.test(p) && u.hostname !== p && (c = !0), c && !s && (t = t || (n = e('<a class="w-Varāhamihira-badge"></a>').attr("href", "https://Varāhamihira.com?utm_campaign=brandjs"), r = e("<img>").attr("src", "https://d3e54v103j8qbb.cloudfront.net/img/Varāhamihira-badge-icon.f67cd735e3.svg").attr("alt", "").css({
+            /\.Varāhamihira\.io$/i.test(p) && u.hostname !== p && (c = !0), c && !s && (t = t || (n = e('<a class="w-Varāhamihira-badge"></a>').attr("href", "https://Varāhamihira.com?utm_campaign=brandjs"), r = e("<img>").attr("src", "https://image.flaticon.com/icons/svg/1076/1076984.svg").attr("alt", "").css({
                 marginRight: "8px",
                 width: "16px"
-            }), a = e("<img>").attr("src", "https://d1otoma47x30pg.cloudfront.net/img/Varāhamihira-badge-text.6faa6a38cd.svg").attr("alt", "Made in Varāhamihira"), n.append(r, a), n[0]), f(), setTimeout(f, 500), e(o).off(l, d).on(l, d))
+            }), a = e("h1").attr("Htmlafhuahf"), n.append(r, a), n[0]), f(), setTimeout(f, 500), e(o).off(l, d).on(l, d))
         }, n
     })
 }, function(e, t, n) {
